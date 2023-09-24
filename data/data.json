@@ -1,0 +1,2159 @@
+[
+    {
+        "id": 1,
+        "english": "One",
+        "japanese": "一",
+        "pronunciation": "Ichi",
+        "category": ["numbers"]
+    },
+    {
+        "id": 2,
+        "english": "Two",
+        "japanese": "二",
+        "pronunciation": "Ni",
+        "category": ["numbers"]
+    },
+    {
+        "id": 3,
+        "english": "Three",
+        "japanese": "三",
+        "pronunciation": "San",
+        "category": ["numbers"]
+    },
+    {
+        "id": 4,
+        "english": "Four",
+        "japanese": "四",
+        "pronunciation": "Shi / Yon",
+        "category": ["numbers"]
+    },
+    {
+        "id": 5,
+        "english": "Five",
+        "japanese": "五",
+        "pronunciation": "Go",
+        "category": ["numbers"]
+    },
+    {
+        "id": 6,
+        "english": "Six",
+        "japanese": "六",
+        "pronunciation": "Roku",
+        "category": ["numbers"]
+    },
+    {
+        "id": 7,
+        "english": "Seven",
+        "japanese": "七",
+        "pronunciation": "Shichi / Nana",
+        "category": ["numbers"]
+    },
+    {
+        "id": 8,
+        "english": "Eight",
+        "japanese": "八",
+        "pronunciation": "Hachi",
+        "category": ["numbers"]
+    },
+    {
+        "id": 9,
+        "english": "Nine",
+        "japanese": "九",
+        "pronunciation": "Kyuu / Ku",
+        "category": ["numbers"]
+    },
+    {
+        "id": 10,
+        "english": "Ten",
+        "japanese": "十",
+        "pronunciation": "Ju",
+        "category": ["numbers"]
+    },
+    {
+        "id": 11,
+        "english": "Calendar",
+        "japanese": "カレンダー",
+        "pronunciation": "Karen daa",
+        "category": ["everyday-japanese"]
+    },
+    {
+        "id": 12,
+        "english": "Monday",
+        "japanese": "月曜日",
+        "pronunciation": "Getsuyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 13,
+        "english": "Tuesday",
+        "japanese": "火曜日",
+        "pronunciation": "Kayoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 14,
+        "english": "Wednesday",
+        "japanese": "水曜日",
+        "pronunciation": "Suiyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 15,
+        "english": "Thursday",
+        "japanese": "木曜日",
+        "pronunciation": "Mokuyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 16,
+        "english": "Friday",
+        "japanese": "金曜日",
+        "pronunciation": "Kinyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 17,
+        "english": "Saturday",
+        "japanese": "土曜日",
+        "pronunciation": "Doyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 18,
+        "english": "Sunday",
+        "japanese": "日曜日",
+        "pronunciation": "Nichiyoubi",
+        "category": ["days-of-the-week", "everyday-japanese"]
+    },
+    {
+        "id": 19,
+        "english": "Thank god, it's Thursday",
+        "japanese": "アッタ金曜日だ",
+        "pronunciation": "atta, kinyoubi da",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 20,
+        "english": "Saturday night",
+        "japanese": "土曜日の夜",
+        "pronunciation": "Doyoubi no yoru",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 21,
+        "english": "Do",
+        "japanese": "する",
+        "pronunciation": "Suru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 22,
+        "english": "Do housework",
+        "japanese": "家事をする",
+        "pronunciation": "Kaji o suru",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 23,
+        "english": "Go",
+        "japanese": "行く",
+        "pronunciation": "Iku",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 24,
+        "english": "I go to school",
+        "japanese": "学校に行く",
+        "pronunciation": "Gakkou ni iku",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 25,
+        "english": "Sushi",
+        "japanese": "寿司",
+        "pronunciation": "Sushi",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 26,
+        "english": "Please",
+        "japanese": "かださ",
+        "pronunciation": "kadasa",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 27,
+        "english": "Green tea",
+        "japanese": "お茶",
+        "pronunciation": "O cha",
+        "category": ["food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 28,
+        "english": "Water",
+        "japanese": "水",
+        "pronunciation": "Mizu",
+        "category": ["food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 29,
+        "english": "Rice",
+        "japanese": "ご飯",
+        "pronunciation": "Gohan",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 30,
+        "english": "Water, please",
+        "japanese": "水をください",
+        "pronunciation": "Mizu o kudasai",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 31,
+        "english": "Laugh",
+        "japanese": "笑う",
+        "pronunciation": "Warau",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 32,
+        "english": "Delicious",
+        "japanese": "美味しい",
+        "pronunciation": "Oishii",
+        "category": ["adjectives", "food", "everyday-japanese"]
+    },
+    {
+        "id": 33,
+        "english": "Delicious dessert",
+        "japanese": "美味しいデザート",
+        "pronunciation": "Oishii dezāto",
+        "category": ["phrases", "food", "everyday-japanese"]
+    },
+    {
+        "id": 34,
+        "english": "Can I have some water, please",
+        "japanese": "水をもらえますか",
+        "pronunciation": "Mizu o moraemasu ka",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 35,
+        "english": "Tea",
+        "japanese": "茶",
+        "pronunciation": "Cha",
+        "category": ["food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 36,
+        "english": "Cup of tea",
+        "japanese": "カップのお茶",
+        "pronunciation": "kappu no acha",
+        "category": ["phrases", "food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 37,
+        "english": "Coffee",
+        "japanese": "コーヒー",
+        "pronunciation": "Koohii",
+        "category": ["food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 38,
+        "english": "Cup of coffee",
+        "japanese": "カップのコーヒー",
+        "pronunciation": "kuppo no kohi",
+        "category": ["phrases", "food", "beverages", "everyday-japanese"]
+    },
+    {
+        "id": 39,
+        "english": "Beef",
+        "japanese": "牛肉",
+        "pronunciation": "Gyuniku",
+        "category": ["food", "meat", "everyday-japanese"]
+    },
+    {
+        "id": 40,
+        "english": "Chicken",
+        "japanese": "鶏肉",
+        "pronunciation": "Toriniku",
+        "category": ["food", "meat", "everyday-japanese"]
+    },
+    {
+        "id": 41,
+        "english": "Pork",
+        "japanese": "豚肉",
+        "pronunciation": "Butaniku",
+        "category": ["food", "meat", "everyday-japanese"]
+    },
+    {
+        "id": 42,
+        "english": "Fish",
+        "japanese": "魚",
+        "pronunciation": "Sakana",
+        "category": ["food", "seafood", "everyday-japanese"]
+    },
+    {
+        "id": 43,
+        "english": "Fishing",
+        "japanese": "魚釣り",
+        "pronunciation": "Sakanatsuri",
+        "category": ["hobbies", "everyday-japanese"]
+    },
+    {
+        "id": 44,
+        "english": "Lamb",
+        "japanese": "ラムニク",
+        "pronunciation": "ramuniku",
+        "category": ["food", "meat", "everyday-japanese"]
+    },
+    {
+        "id": 45,
+        "english": "Doctor",
+        "japanese": "医者",
+        "pronunciation": "Isha",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 46,
+        "english": "Police officer",
+        "japanese": "警察官",
+        "pronunciation": "Keisatsukan",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 47,
+        "english": "Teacher",
+        "japanese": "先生",
+        "pronunciation": "Sensei",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 48,
+        "english": "Favorite teacher",
+        "japanese": "好きな先生",
+        "pronunciation": "Suki na sensei",
+        "category": ["phrases", "education", "everyday-japanese"]
+    },
+    {
+        "id": 49,
+        "english": "Come",
+        "japanese": "来る",
+        "pronunciation": "Kuru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 50,
+        "english": "Come early",
+        "japanese": "早く来る",
+        "pronunciation": "Hayaku kuru",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 51,
+        "english": "See",
+        "japanese": "見る",
+        "pronunciation": "Miru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 52,
+        "english": "Make",
+        "japanese": "作る",
+        "pronunciation": "Tsukuru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 53,
+        "english": "Make food",
+        "japanese": "料理をする",
+        "pronunciation": "Ryōri o suru",
+        "category": ["phrases", "cooking", "everyday-japanese"]
+    },
+    {
+        "id": 54,
+        "english": "Use",
+        "japanese": "使う",
+        "pronunciation": "Tsukau",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 55,
+        "english": "Egg",
+        "japanese": "卵",
+        "pronunciation": "Tamago",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 56,
+        "english": "Can",
+        "japanese": "できる",
+        "pronunciation": "Dekiru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 57,
+        "english": "One degree",
+        "japanese": "一度",
+        "pronunciation": "Ichido", 
+        "category": ["measurements", "everyday-japanese"]
+    },
+    {
+        "id": 58,
+        "english": "Two weeks long",
+        "japanese": "2週間",
+        "pronunciation": "Nishuukan",
+        "category": ["measurements", "time", "everyday-japanese"]
+    },
+    {
+        "id": 59,
+        "english": "It is 3 o'clock now",
+        "japanese": "今は3時です",
+        "pronunciation": "Ima wa san-ji desu",
+        "category": ["phrases", "time", "everyday-japanese"]
+    },
+    {
+        "id": 60,
+        "english": "5 apples",
+        "japanese": "りんご5個",
+        "pronunciation": "Ringo goko",
+        "category": ["food", "quantities", "everyday-japanese"]
+    },
+    {
+        "id": 61,
+        "english": "9 floors",
+        "japanese": "9階",
+        "pronunciation": "Kyuu-kai",
+        "category": ["places", "buildings", "everyday-japanese"]
+    },
+    {
+        "id": 62,
+        "english": "Salesman",
+        "japanese": "セールスマン",
+        "pronunciation": "Seerusuman",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 63,
+        "english": "Manager",
+        "japanese": "マネージャー",
+        "pronunciation": "Manējā",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 64,
+        "english": "Cook",
+        "japanese": "料理人",
+        "pronunciation": "Ryourinin",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 65,
+        "english": "Engineer",
+        "japanese": "エンジニア",
+        "pronunciation": "Enjinia",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 66,
+        "english": "Programmer",
+        "japanese": "プログラマー",
+        "pronunciation": "Puroguramaa",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 67,
+        "english": "Nurse",
+        "japanese": "看護師",
+        "pronunciation": "Kangoshi",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 68,
+        "english": "Body",
+        "japanese": "体",
+        "pronunciation": "Karada",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 69,
+        "english": "Human body",
+        "japanese": "人間の体",
+        "pronunciation": "Ningen no karada",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 70,
+        "english": "Head",
+        "japanese": "頭",
+        "pronunciation": "Atama",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 71,
+        "english": "Hand",
+        "japanese": "手",
+        "pronunciation": "Te",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 72,
+        "english": "Right hand",
+        "japanese": "右手",
+        "pronunciation": "Migite",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 73,
+        "english": "Wallet",
+        "japanese": "財布",
+        "pronunciation": "Saifu",
+        "category": ["personal-items", "everyday-japanese"]
+    },
+    {
+        "id": 74,
+        "english": "Purse",
+        "japanese": "ハンドバッグ        ",
+        "pronunciation": "Handobaggu",
+        "category": ["personal-items", "everyday-japanese"]
+    },
+    {
+        "id": 75,
+        "english": "Order",
+        "japanese": "オーダー",
+        "pronunciation": "Ōdā",
+        "category": ["food", "phrases", "everyday-japanese"]
+    },
+    {
+        "id": 76,
+        "english": "Field",
+        "japanese": "草原",
+        "pronunciation": "Sogen",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 77,
+        "english": "Desert",
+        "japanese": "砂漠",
+        "pronunciation": "Sabaku",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 78,
+        "english": "Boss",
+        "japanese": "上司",
+        "pronunciation": "Joushi",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 79,
+        "english": "Office",
+        "japanese": "オフィス",
+        "pronunciation": "Ofisu",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 80,
+        "english": "Co-worker",
+        "japanese": "同僚",
+        "pronunciation": "Douryou",
+        "category": ["occupations", "everyday-japanese"]
+    },
+    {
+        "id": 81,
+        "english": "Meeting",
+        "japanese": "ミーティング",
+        "pronunciation": "Mītingu",
+        "category": ["business", "everyday-japanese"]
+    },
+    {
+        "id": 82,
+        "english": "Police station",
+        "japanese": "警察署",
+        "pronunciation": "Keisatsusho",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 83,
+        "english": "Pharmacy",
+        "japanese": "薬局",
+        "pronunciation": "Yakkyoku",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 84,
+        "english": "Bakery",
+        "japanese": "パン屋",
+        "pronunciation": "Panya",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 85,
+        "english": "Movie theater",
+        "japanese": "映画館",
+        "pronunciation": "Eigakan",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 86,
+        "english": "Negotiation",
+        "japanese": "交渉",
+        "pronunciation": "Koushou",
+        "category": ["business", "everyday-japanese"]
+    },
+    {
+        "id": 87,
+        "english": "Contract",
+        "japanese": "契約",
+        "pronunciation": "Keiyaku",
+        "category": ["business", "everyday-japanese"]
+    },
+    {
+        "id": 88,
+        "english": "Business",
+        "japanese": "ビジネス",
+        "pronunciation": "Bijinesu",
+        "category": ["business", "everyday-japanese"]
+    },
+    {
+        "id": 89,
+        "english": "Deal",
+        "japanese": "取引",
+        "pronunciation": "Torihiki",
+        "category": ["business", "everyday-japanese"]
+    },
+    {
+        "id": 90,
+        "english": "Busy",
+        "japanese": "忙しい",
+        "pronunciation": "Isogashii",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 91,
+        "english": "Serious",
+        "japanese": "重大",
+        "pronunciation": "judai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 92,
+        "english": "Tired",
+        "japanese": "疲れた",
+        "pronunciation": "Tsukareta",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 93,
+        "english": "Boring",
+        "japanese": "つまらない",
+        "pronunciation": "Tsumaranai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 94,
+        "english": "Exciting",
+        "japanese": "面白い",
+        "pronunciation": "Omoshiroi",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 95,
+        "english": "Important",
+        "japanese": "大切",
+        "pronunciation": "Taisetsu",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 96,
+        "english": "Credit card",
+        "japanese": "クレジットカード",
+        "pronunciation": "Kurejitto kaado",
+        "category": ["financial", "everyday-japanese"]
+    },
+    {
+        "id": 97,
+        "english": "Key",
+        "japanese": "鍵",
+        "pronunciation": "Kagi",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 98,
+        "english": "Driver's license",
+        "japanese": "運転免許証",
+        "pronunciation": "Unten menkyoshou",
+        "category": ["documents", "everyday-japanese"]
+    },
+    {
+        "id": 99,
+        "english": "Forest",
+        "japanese": "森林",
+        "pronunciation": "Shinrin",
+        "category": ["nature", "everyday-japanese"]
+    },
+    {
+        "id": 100,
+        "english": "River",
+        "japanese": "川",
+        "pronunciation": "Kawa",
+        "category": ["nature", "everyday-japanese"]
+    },
+    {
+        "id": 101,
+        "english": "Ocean",
+        "japanese": "海",
+        "pronunciation": "Umi",
+        "category": ["nature", "everyday-japanese"]
+    },
+    {
+        "id": 102,
+        "english": "Lake",
+        "japanese": "湖",
+        "pronunciation": "Mizuumi",
+        "category": ["nature", "everyday-japanese"]
+    },
+    {
+        "id": 103,
+        "english": "Document",
+        "japanese": "文書",
+        "pronunciation": "Bunsho",
+        "category": ["documents", "everyday-japanese"]
+    },
+    {
+        "id": 104,
+        "english": "Computer",
+        "japanese": "コンピュータ",
+        "pronunciation": "Konpyuutaa",
+        "category": ["technology", "everyday-japanese"]
+    },
+    {
+        "id": 105,
+        "english": "Fax machine",
+        "japanese": "ファクス",
+        "pronunciation": "Fakusu",
+        "category": ["technology", "everyday-japanese"]
+    },
+    {
+        "id": 106,
+        "english": "Printer",
+        "japanese": "プリンター",
+        "pronunciation": "Purintaa",
+        "category": ["technology", "everyday-japanese"]
+    },
+    {
+        "id": 107,
+        "english": "Mechanical pencil",
+        "japanese": "シャーペン",
+        "pronunciation": "Shaapen",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 108,
+        "english": "Ruler",
+        "japanese": "定規",
+        "pronunciation": "Jougi",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 109,
+        "english": "Marker",
+        "japanese": "マーカー",
+        "pronunciation": "Maakaa",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 110,
+        "english": "Bank",
+        "japanese": "銀行",
+        "pronunciation": "Ginkou",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 111,
+        "english": "Convenience store",
+        "japanese": "コンビニ",
+        "pronunciation": "Konbini",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 112,
+        "english": "Hospital",
+        "japanese": "病院",
+        "pronunciation": "Byouin",
+        "category": ["places", "everyday-japanese"]
+    },
+    {
+        "id": 113,
+        "english": "Hello",
+        "japanese": "こんにちは",
+        "pronunciation": "Konnichiwa",
+        "category": ["greetings", "everyday-japanese"]
+    },
+    {
+        "id": 114,
+        "english": "Excuse me",
+        "japanese": "すみません",
+        "pronunciation": "Sumimasen",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 115,
+        "english": "I'm sorry",
+        "japanese": "ごめんなさい",
+        "pronunciation": "Gomen nasai",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 116,
+        "english": "Good night",
+        "japanese": "おやすみなさい",
+        "pronunciation": "Oyasuminasai",
+        "category": ["greetings", "everyday-japanese"]
+    },
+    {
+        "id": 117,
+        "english": "Nice to meet you",
+        "japanese": "はじめまして",
+        "pronunciation": "Hajimemashite",
+        "category": ["greetings", "everyday-japanese"]
+    },
+    {
+        "id": 118,
+        "english": "How are you",
+        "japanese": "お元気ですか",
+        "pronunciation": "Ogenki desu ka",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 119,
+        "english": "Yes",
+        "japanese": "はい",
+        "pronunciation": "Hai",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 120,
+        "english": "No",
+        "japanese": "いいえ",
+        "pronunciation": "Iie",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 121,
+        "english": "Thank you",
+        "japanese": "ありがとう",
+        "pronunciation": "Arigatou",
+        "category": ["phrases", "everyday-japanese"]
+    },
+    {
+        "id": 122,
+        "english": "I'm Rubas",
+        "japanese": "私はルバス です",
+        "pronunciation": "Watashi wa rubasu desu",
+        "category": ["introductions", "everyday-japanese"]
+    },
+    {
+        "id": 123,
+        "english": "Goodbye",
+        "japanese": "さようなら",
+        "pronunciation": "Sayonara",
+        "category": ["farewells", "everyday-japanese"]
+    },
+    {
+        "id": 124,
+        "english": "Bad",
+        "japanese": "悪い",
+        "pronunciation": "Warui",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 125,
+        "english": "Good",
+        "japanese": "良い",
+        "pronunciation": "Yoi",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 126,
+        "english": "Pretty",
+        "japanese": "きれい",
+        "pronunciation": "Kirei",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 127,
+        "english": "Ugly",
+        "japanese": "醜い",
+        "pronunciation": "Minikui",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 128,
+        "english": "Easy",
+        "japanese": "簡単",
+        "pronunciation": "Kantan",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 129,
+        "english": "Difficult",
+        "japanese": "難しい",
+        "pronunciation": "Muzukashii",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 130,
+        "english": "Near",
+        "japanese": "近い",
+        "pronunciation": "Chikai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 131,
+        "english": "Far",
+        "japanese": "遠い",
+        "pronunciation": "Tooi",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 132,
+        "english": "Small",
+        "japanese": "小さい",
+        "pronunciation": "Chiisai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 133,
+        "english": "Today",
+        "japanese": "今日",
+        "pronunciation": "Kyou",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 134,
+        "english": "Yesterday",
+        "japanese": "昨日",
+        "pronunciation": "Kinou",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 135,
+        "english": "Tomorrow",
+        "japanese": "明日",
+        "pronunciation": "Ashita",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 136,
+        "english": "See you tomorrow",
+        "japanese": "また明日",
+        "pronunciation": "Mata ashita",
+        "category": ["phrases", "farewells", "everyday-japanese"]
+    },
+    {
+        "id": 137,
+        "english": "Week",
+        "japanese": "週",
+        "pronunciation": "Shuu",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 138,
+        "english": "Year",
+        "japanese": "年",
+        "pronunciation": "Toshi",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 139,
+        "english": "Second",
+        "japanese": "秒",
+        "pronunciation": "Byou",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 140,
+        "english": "Minute",
+        "japanese": "分",
+        "pronunciation": "Fun",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 141,
+        "english": "Hour",
+        "japanese": "時間",
+        "pronunciation": "Jikan",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 142,
+        "english": "Clock",
+        "japanese": "時計",
+        "pronunciation": "Tokei",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 143,
+        "english": "O'clock",
+        "japanese": "時",
+        "pronunciation": "Ji",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 144,
+        "english": "At 3 o'clock",
+        "japanese": "3時に",
+        "pronunciation": "San-ji ni",
+        "category": ["time", "everyday-japanese"]
+    },
+    {
+        "id": 145,
+        "english": "Arm",
+        "japanese": "腕",
+        "pronunciation": "Ude",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 146,
+        "english": "Foot",
+        "japanese": "足",
+        "pronunciation": "Ashi",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 147,
+        "english": "Left foot",
+        "japanese": "左足",
+        "pronunciation": "Hidariashi",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 148,
+        "english": "Leg",
+        "japanese": "脚",
+        "pronunciation": "Ashi",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 149,
+        "english": "Broken leg",
+        "japanese": "脚が折れた",
+        "pronunciation": "Ashi ga oreta",
+        "category": ["health", "injuries", "everyday-japanese"]
+    },
+    {
+        "id": 150,
+        "english": "Finger",
+        "japanese": "指",
+        "pronunciation": "Yubi",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 151,
+        "english": "Back",
+        "japanese": "背中",
+        "pronunciation": "Senaka",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 152,
+        "english": "My back hurts",
+        "japanese": "背中が痛いです",
+        "pronunciation": "Senaka ga itai desu",
+        "category": ["health", "everyday-japanese"]
+    },
+    {
+        "id": 153,
+        "english": "Stomach",
+        "japanese": "胃",
+        "pronunciation": "I",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 154,
+        "english": "Stomach pain",
+        "japanese": "胃痛",
+        "pronunciation": "Itsū",
+        "category": ["health", "everyday-japanese"]
+    },
+    {
+        "id": 155,
+        "english": "Chest",
+        "japanese": "胸",
+        "pronunciation": "Mune",
+        "category": ["anatomy", "everyday-japanese"]
+    },
+    {
+        "id": 156,
+        "english": "January",
+        "japanese": "一月 ",
+        "pronunciation": "Ichigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 157,
+        "english": "February",
+        "japanese": "二月",
+        "pronunciation": "Nigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 158,
+        "english": "March",
+        "japanese": "三月",
+        "pronunciation": "Sangatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 159,
+        "english": "April",
+        "japanese": "四月",
+        "pronunciation": "Shigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 160,
+        "english": "May",
+        "japanese": "五月",
+        "pronunciation": "Gogatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 161,
+        "english": "June",
+        "japanese": "六月",
+        "pronunciation": "Rokugatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 162,
+        "english": "July",
+        "japanese": "七月　",
+        "pronunciation": "Shichigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 163,
+        "english": "August",
+        "japanese": "八月",
+        "pronunciation": "Hachigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 164,
+        "english": "September",
+        "japanese": "九月",
+        "pronunciation": "Kugatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 165,
+        "english": "October",
+        "japanese": "十月",
+        "pronunciation": "Juugatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 166,
+        "english": "November",
+        "japanese": "十一月",
+        "pronunciation": "Juichigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 167,
+        "english": "December",
+        "japanese": "十二月",
+        "pronunciation": "Juunigatsu",
+        "category": ["time", "months", "everyday-japanese"]
+    },
+    {
+        "id": 168,
+        "english": "March 17th",
+        "japanese": "3月17日",
+        "pronunciation": "Sangatsu juushichinichi",
+        "category": ["time", "dates", "everyday-japanese"]
+    },
+    {
+        "id": 169,
+        "english": "It's now April",
+        "japanese": "今は4月",
+        "pronunciation": "Ima wa shigatsu desu",
+        "category": ["phrases", "time", "everyday-japanese"]
+    },
+    {
+        "id": 170,
+        "english": "Mayflower",
+        "japanese": "五月の花",
+        "pronunciation": "gogatsu no hana",
+        "category": ["names", "everyday-japanese"]
+    },
+    {
+        "id": 171,
+        "english": "Hot August day",
+        "japanese": "暑い日",
+        "pronunciation": "Atsui hachigatsu no hi",
+        "category": ["weather", "months", "everyday-japanese"]
+    },
+    {
+        "id": 172,
+        "english": "Eleven",
+        "japanese": "11",
+        "pronunciation": "Juichi",
+        "category": ["numbers", "everyday-japanese"]
+    },
+    {
+        "id": 173,
+        "english": "Zero",
+        "japanese": "零",
+        "pronunciation": "Rei",
+        "category": ["numbers", "everyday-japanese"]
+    },
+    {
+        "id": 174,
+        "english": "Watch",
+        "japanese": "時計",
+        "pronunciation": "Tokei",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 175,
+        "english": "Glasses",
+        "japanese": "メガネ",
+        "pronunciation": "Megane",
+        "category": ["objects", "everyday-japanese"]
+    },
+    {
+        "id": 176,
+        "english": "Jacket",
+        "japanese": "ジャケット",
+        "pronunciation": "Jaketto",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 177,
+        "english": "Receive",
+        "japanese": "受け取る",
+        "pronunciation": "Uketoru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 178,
+        "english": "Search",
+        "japanese": "探す",
+        "pronunciation": "Sagasu",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 179,
+        "english": "Take",
+        "japanese": "取る",
+        "pronunciation": "Toru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 180,
+        "english": "Weak",
+        "japanese": "弱い",
+        "pronunciation": "Yowai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 181,
+        "english": "Strong",
+        "japanese": "強い",
+        "pronunciation": "Tsuyoi",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 182,
+        "english": "Cold",
+        "japanese": "寒い",
+        "pronunciation": "Samui",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 183,
+        "english": "Hot",
+        "japanese": "暑い",
+        "pronunciation": "Atsui",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 184,
+        "english": "It's cold in Canada",
+        "japanese": "カナダは寒いです",
+        "pronunciation": "Kanada wa samui desu",
+        "category": ["phrases", "weather", "everyday-japanese"]
+    },
+    {
+        "id": 185,
+        "english": "Peach",
+        "japanese": "桃",
+        "pronunciation": "Momo",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 186,
+        "english": "Orange",
+        "japanese": "オレンジ",
+        "pronunciation": "Orenji",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 187,
+        "english": "Funny",
+        "japanese": "変",
+        "pronunciation": "Hen",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 188,
+        "english": "Potato",
+        "japanese": "芋",
+        "pronunciation": "Imo",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 189,
+        "english": "Soybean",
+        "japanese": "大豆",
+        "pronunciation": "Daizu",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 190,
+        "english": "Vegetable",
+        "japanese": "野菜",
+        "pronunciation": "Yasai",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 191,
+        "english": "Pig",
+        "japanese": "豚",
+        "pronunciation": "Buta",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 192,
+        "english": "Cow",
+        "japanese": "牛",
+        "pronunciation": "Ushi",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 193,
+        "english": "Horse",
+        "japanese": "馬",
+        "pronunciation": "Uma",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 194,
+        "english": "Snow",
+        "japanese": "雪",
+        "pronunciation": "Yuki",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 195,
+        "english": "Shirt",
+        "japanese": "シャツ",
+        "pronunciation": "Shatsu",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 196,
+        "english": "Pants",
+        "japanese": "パンツ",
+        "pronunciation": "Pantsu",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 197,
+        "english": "Dress",
+        "japanese": "ドレス",
+        "pronunciation": "Doresu",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 198,
+        "english": "Say",
+        "japanese": "言う",
+        "pronunciation": "Iu",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 199,
+        "english": "Call",
+        "japanese": "電話する",
+        "pronunciation": "denwa suru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 200,
+        "english": "Find",
+        "japanese": "見つける",
+        "pronunciation": "Mitsukeru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 201,
+        "english": "Clean",
+        "japanese": "きれい",
+        "pronunciation": "Kirei",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 202,
+        "english": "Dirty",
+        "japanese": "汚い",
+        "pronunciation": "Kitanai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 203,
+        "english": "Carrot",
+        "japanese": "にんじん",
+        "pronunciation": "Ninjin",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 204,
+        "english": "Onion",
+        "japanese": "たまねぎ",
+        "pronunciation": "Tamanegi",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 205,
+        "english": "Lettuce",
+        "japanese": "レタス",
+        "pronunciation": "Retasu",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 206,
+        "english": "Sheep",
+        "japanese": "ひつじ",
+        "pronunciation": "Hitsuji",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 207,
+        "english": "Rabbit",
+        "japanese": "うさぎ",
+        "pronunciation": "Usagi",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 208,
+        "english": "Seal",
+        "japanese": "アザラシ",
+        "pronunciation": "Azarashi",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 209,
+        "english": "Cloud",
+        "japanese": "雲",
+        "pronunciation": "Kumo",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 210,
+        "english": "Sunny",
+        "japanese": "晴れ",
+        "pronunciation": "Hare",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 211,
+        "english": "Is it going to be sunny tomorrow?",
+        "japanese": "あしたははれですか",
+        "pronunciation": "Ashita wa hare desu ka",
+        "category": ["phrases", "weather", "everyday-japanese"]
+    },
+    {
+        "id": 212,
+        "english": "Rainy",
+        "japanese": "雨",
+        "pronunciation": "Ame",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 213,
+        "english": "Baby",
+        "japanese": "赤ちゃん",
+        "pronunciation": "Akachan",
+        "category": ["family", "everyday-japanese"]
+    },
+    {
+        "id": 214,
+        "english": "Girl",
+        "japanese": "女の子",
+        "pronunciation": "Onnanoko",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 215,
+        "english": "Boy",
+        "japanese": "男の子",
+        "pronunciation": "Otoko no ko",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 216,
+        "english": "Happy",
+        "japanese": "嬉しい",
+        "pronunciation": "Ureshī",
+        "category": ["emotions", "everyday-japanese"]
+    },
+    {
+        "id": 217,
+        "english": "Sad",
+        "japanese": "悲しい",
+        "pronunciation": "Kanashii",
+        "category": ["emotions", "everyday-japanese"]
+    },
+    {
+        "id": 218,
+        "english": "Angry",
+        "japanese": "怒っている",
+        "pronunciation": "Okotte iru",
+        "category": ["emotions", "everyday-japanese"]
+    },
+    {
+        "id": 219,
+        "english": "Clothing",
+        "japanese": "服",
+        "pronunciation": "Fuku",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 220,
+        "english": "Shoe",
+        "japanese": "靴",
+        "pronunciation": "Kutsu",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 221,
+        "english": "Socks",
+        "japanese": "靴下",
+        "pronunciation": "Kutsushita",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 222,
+        "english": "Underwear",
+        "japanese": "下着",
+        "pronunciation": "Shitagi",
+        "category": ["clothing", "everyday-japanese"]
+    },
+    {
+        "id": 223,
+        "english": "Talk",
+        "japanese": "話す",
+        "pronunciation": "Hanasu",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 224,
+        "english": "Give",
+        "japanese": "あげる",
+        "pronunciation": "Ageru",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 225,
+        "english": "Low",
+        "japanese": "低い",
+        "pronunciation": "Hikui",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 226,
+        "english": "High",
+        "japanese": "高い",
+        "pronunciation": "Takai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 227,
+        "english": "Fruit",
+        "japanese": "フルーツ",
+        "pronunciation": "Furūtsu",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 228,
+        "english": "Octopus",
+        "japanese": "たこ",
+        "pronunciation": "Tako",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 229,
+        "english": "Shark",
+        "japanese": "サメ",
+        "pronunciation": "Same",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 230,
+        "english": "Cloudy",
+        "japanese": "曇り",
+        "pronunciation": "Kumori",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 231,
+        "english": "Cool",
+        "japanese": "涼しい",
+        "pronunciation": "Suzushii",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 232,
+        "english": "Cucumber",
+        "japanese": "きゅうり",
+        "pronunciation": "Kyuri",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 233,
+        "english": "Bell pepper",
+        "japanese": "ピーマン",
+        "pronunciation": "Piiman",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 234,
+        "english": "Broccoli",
+        "japanese": "ブロッコリー",
+        "pronunciation": "Burokkorii",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 235,
+        "english": "Banana",
+        "japanese": "バナナ",
+        "pronunciation": "Banana",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 236,
+        "english": "Apple",
+        "japanese": "リンゴ",
+        "pronunciation": "Ringo",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 237,
+        "english": "Grape",
+        "japanese": "ぶどう",
+        "pronunciation": "Budou",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 238,
+        "english": "Watermelon",
+        "japanese": "スイカ",
+        "pronunciation": "Suika",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 239,
+        "english": "I like watermelon",
+        "japanese": "スイカが好きです",
+        "pronunciation": "Suika ga suki desu",
+        "category": ["phrases", "food", "everyday-japanese"]
+    },
+    {
+        "id": 240,
+        "english": "Bird",
+        "japanese": "鳥",
+        "pronunciation": "Tori",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 241,
+        "english": "Mouse",
+        "japanese": "ネズミ",
+        "pronunciation": "Nezumi",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 242,
+        "english": "Sun",
+        "japanese": "太陽",
+        "pronunciation": "Taiyou",
+        "category": ["space", "everyday-japanese"]
+    },
+    {
+        "id": 243,
+        "english": "Moon",
+        "japanese": "月",
+        "pronunciation": "Tsuki",
+        "category": ["space", "everyday-japanese"]
+    },
+    {
+        "id": 244,
+        "english": "Star",
+        "japanese": "星",
+        "pronunciation": "Hoshi",
+        "category": ["space", "everyday-japanese"]
+    },
+    {
+        "id": 245,
+        "english": "Weather",
+        "japanese": "天気",
+        "pronunciation": "Tenki",
+        "category": ["weather", "everyday-japanese"]
+    },
+    {
+        "id": 246,
+        "english": "How is the weather today?",
+        "japanese": "今日の天気はどうですか？",
+        "pronunciation": "Kyou no tenki wa dou desu ka?",
+        "category": ["phrases", "weather", "everyday-japanese"]
+    },
+    {
+        "id": 247,
+        "english": "Degree",
+        "japanese": "度",
+        "pronunciation": "Do",
+        "category": ["measurements", "everyday-japanese"]
+    },
+    {
+        "id": 248,
+        "english": "Zero-degree",
+        "japanese": "零度",
+        "pronunciation": "Reido",
+        "category": ["measurements", "weather", "everyday-japanese"]
+    },
+    {
+        "id": 249,
+        "english": "Man",
+        "japanese": "男の人",
+        "pronunciation": "otoko no hito",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 250,
+        "english": "Woman",
+        "japanese": "女の人",
+        "pronunciation": "onna no hito",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 251,
+        "english": "Girlfriend",
+        "japanese": "彼女",
+        "pronunciation": "Kanojo",
+        "category": ["relationships", "everyday-japanese"]
+    },
+    {
+        "id": 252,
+        "english": "Boyfriend",
+        "japanese": "彼氏",
+        "pronunciation": "Kareshi",
+        "category": ["relationships", "everyday-japanese"]
+    },
+    {
+        "id": 253,
+        "english": "Train",
+        "japanese": "電車",
+        "pronunciation": "Densha",
+        "category": ["transportation", "everyday-japanese"]
+    },
+    {
+        "id": 254,
+        "english": "Airplane",
+        "japanese": "飛行機",
+        "pronunciation": "Hikouki",
+        "category": ["transportation", "everyday-japanese"]
+    },
+    {
+        "id": 255,
+        "english": "Bus",
+        "japanese": "バス",
+        "pronunciation": "Basu",
+        "category": ["transportation", "everyday-japanese"]
+    },
+    {
+        "id": 256,
+        "english": "Taxi",
+        "japanese": "タクシー",
+        "pronunciation": "Takushii",
+        "category": ["transportation", "everyday-japanese"]
+    },
+    {
+        "id": 257,
+        "english": "Spinach",
+        "japanese": "ほうれん草",
+        "pronunciation": "Hourensou",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 258,
+        "english": "Dolphin",
+        "japanese": "イルカ",
+        "pronunciation": "Iruka",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 259,
+        "english": "Squid",
+        "japanese": "イカ",
+        "pronunciation": "Ika",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 260,
+        "japanese": "食べる",
+        "pronunciation": "Taberu",
+        "english": "to eat",
+        "category": ["verbs", "food", "everyday-japanese"]
+    },
+    {
+        "id": 261,
+        "japanese": "学校",
+        "pronunciation": "Gakkou",
+        "english": "school",
+        "category": ["places", "education", "everyday-japanese"]
+    },
+    {
+        "id": 262,
+        "japanese": "本",
+        "pronunciation": "Hon",
+        "english": "book",
+        "category": ["objects", "learning", "everyday-japanese"]
+    },
+    {
+        "id": 263,
+        "english": "Amazing",
+        "japanese": "すごい",
+        "pronunciation": "Sugoi",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 264,
+        "english": "Everybody",
+        "japanese": "みんな",
+        "pronunciation": "Minna",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 265,
+        "english": "Wait",
+        "japanese": "ちょっと",
+        "pronunciation": "Chotto",
+        "category": ["verbs", "everyday-japanese"]
+    },
+    {
+        "id": 266,
+        "english": "Fool",
+        "japanese": "馬鹿",
+        "pronunciation": "Baka",
+        "category": ["people", "everyday-japanese"]
+    },
+    {
+        "id": 267,
+        "english": "Dog",
+        "japanese": "犬",
+        "pronunciation": "Inu",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 268,
+        "english": "Cat",
+        "japanese": "猫",
+        "pronunciation": "Neko",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 269,
+        "english": "Hamster",
+        "japanese": "ハムスター",
+        "pronunciation": "Hamusutaa",
+        "category": ["animals", "everyday-japanese"]
+    },
+    {
+        "id": 270,
+        "english": "Warm",
+        "japanese": "暖かい",
+        "pronunciation": "Atatakai",
+        "category": ["adjectives", "everyday-japanese"]
+    },
+    {
+        "id": 271,
+        "english": "Tomato",
+        "japanese": "トマト",
+        "pronunciation": "Tomato",
+        "category": ["food", "everyday-japanese"]
+    },
+    {
+        "id": 272,
+        "english": "A tomato is 78 yen",
+        "japanese": "トマトは78円です",
+        "pronunciation": "Tomato wa nanajuu hachi en desu",
+        "category": ["phrases", "food", "everyday-japanese"]
+    },
+        {
+            "id": 273,
+            "english": "Strawberry",
+            "japanese": "イチゴ",
+            "pronunciation": "Ichigo",
+            "category": ["food", "everyday-japanese"]
+        },
+        {
+            "id": 274,
+            "english": "Cherry",
+            "japanese": "さくらんぼ",
+            "pronunciation": "Sakuranbo",
+            "category": ["food", "everyday-japanese"]
+        },
+        {
+            "id": 275,
+            "english": "Child",
+            "japanese": "子供",
+            "pronunciation": "Kodomo",
+            "category": ["people", "everyday-japanese"]
+        },
+        {
+            "id": 276,
+            "english": "Friend",
+            "japanese": "友達",
+            "pronunciation": "Tomodachi",
+            "category": ["people", "everyday-japanese"]
+        },
+        {
+            "id": 277,
+            "english": "Adult",
+            "japanese": "大人",
+            "pronunciation": "Otona",
+            "category": ["people", "everyday-japanese"]
+        },
+        {
+            "id": 278,
+            "english": "Bicycle",
+            "japanese": "自転車",
+            "pronunciation": "Jitensha",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 279,
+            "english": "Car",
+            "japanese": "車",
+            "pronunciation": "Kuruma",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 280,
+            "english": "Motorcycle",
+            "japanese": "バイク",
+            "pronunciation": "Baiku",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 281,
+            "english": "Scooter",
+            "japanese": "スクーター",
+            "pronunciation": "Sukuutaa",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 282,
+            "english": "Boat",
+            "japanese": "ボート",
+            "pronunciation": "Bōto",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 283,
+            "english": "Jellyfish",
+            "japanese": "クラゲ",
+            "pronunciation": "Kurage",
+            "category": ["animals", "everyday-japanese"]
+        },
+        {
+            "id": 284,
+            "english": "Lobster",
+            "japanese": "ロブスター",
+            "pronunciation": "Robusutaa",
+            "category": ["food", "everyday-japanese"]
+        },
+        {
+            "id": 285,
+            "english": "Crab",
+            "japanese": "カニ",
+            "pronunciation": "Kani",
+            "category": ["food", "everyday-japanese"]
+        },
+        {
+            "id": 286,
+            "english": "Turtle",
+            "japanese": "亀",
+            "pronunciation": "Kame",
+            "category": ["animals", "everyday-japanese"]
+        },
+        {
+            "id": 287,
+            "english": "Helicopter",
+            "japanese": "ヘリコプター",
+            "pronunciation": "Herikoputaa",
+            "category": ["transportation", "everyday-japanese"]
+        },
+        {
+            "id": 288,
+            "english": "Black",
+            "japanese": "黒い",
+            "pronunciation": "kuroi",
+            "category": ["colors", "everyday-japanese"]
+        },
+        {
+            "id": 289,
+            "english": "Outer space is black",
+            "japanese": "宇宙は黒いです",
+            "pronunciation": "Uchuu wa kuroi desu",
+            "category": ["phrases", "space", "everyday-japanese"]
+        },
+        {
+            "id": 290,
+            "english": "Brown",
+            "japanese": "茶色",
+            "pronunciation": "Chairo",
+            "category": ["colors", "everyday-japanese"]
+        },
+        {
+            "id": 291,
+            "english": "Gray",
+            "japanese": "グレー",
+            "pronunciation": "guree",
+            "category": ["colors", "everyday-japanese"]
+        },
+        {
+            "id": 292,
+            "english": "Rest",
+            "japanese": "休む",
+            "pronunciation": "Yasumu",
+            "category": ["actions", "everyday-japanese"]
+        },
+        {
+            "id": 293,
+            "english": "Hear",
+            "japanese": "聞く",
+            "pronunciation": "Kiku",
+            "category": ["verbs", "everyday-japanese"]
+        },
+        {
+            "id": 294,
+            "english": "Want",
+            "japanese": "欲しい",
+            "pronunciation": "Hoshii",
+            "category": ["verbs", "everyday-japanese"]
+        },
+        {
+            "id": 295,
+            "english": "Disgusting",
+            "japanese": "最低",
+            "pronunciation": "Saitei",
+            "category": ["adjectives", "everyday-japanese"]
+        },
+        {
+            "id": 296,
+            "english": "Eleven",
+            "japanese": "十一",
+            "pronunciation": "Ju-ichi",
+            "category": ["numbers", "everyday-japanese"]
+        },
+        {
+            "id": 297,
+            "english": "Twelve",
+            "japanese": "十二",
+            "pronunciation": "Ju-ni",
+            "category": ["numbers", "everyday-japanese"]
+        },
+        {
+            "id": 298,
+            "english": "Thirteen",
+            "japanese": "十三",
+            "pronunciation": "Ju-san",
+            "category": ["numbers", "everyday-japanese"]
+        },
+        {
+            "id": 299,
+            "english": "He is thirteen years old.",
+            "japanese": "彼は十三歳です。",
+            "pronunciation": "Kare wa ju-san sai desu.",
+            "category": ["phrases", "everyday-japanese"]
+        },
+        {
+            "id": 300,
+            "english": "Email",
+            "japanese": "メール",
+            "pronunciation": "Meeru",
+            "category": ["technology", "everyday-japanese"]
+        },
+        {
+            "id": 301,
+            "english": "Cellular phone",
+            "japanese": "携帯電話",
+            "pronunciation": "Keitai Denwa",
+            "category": ["technology", "everyday-japanese"]
+        },
+        {
+            "id": 302,
+            "english": "Text message",
+            "japanese": "ショートメール",
+            "pronunciation": "shōto mēru",
+            "category": ["technology", "everyday-japanese"]
+        },
+        {
+            "id": 303,
+            "english": "Mouth",
+            "japanese": "口",
+            "pronunciation": "Kuchi",
+            "category": ["body", "everyday-japanese"]
+        },
+        {
+            "id": 304,
+            "english": "Cheeks",
+            "japanese": "ほほ",
+            "pronunciation": "Hoho",
+            "category": ["body", "everyday-japanese"]
+        },
+        {
+            "id": 305,
+            "english": "Nose",
+            "japanese": "鼻",
+            "pronunciation": "Hana",
+            "category": ["body", "everyday-japanese"]
+        },
+        {
+            "id": 306,
+            "english": "Notebook",
+            "japanese": "ノート",
+            "pronunciation": "Nooto",
+            "category": ["education", "everyday-japanese"]
+        },
+        {
+            "id": 307,
+            "english": "Pencil",
+            "japanese": "鉛筆",
+            "pronunciation": "Enpitsu",
+            "category": ["education", "everyday-japanese"]
+        },
+        {
+            "id": 308,
+            "english": "Eraser",
+            "japanese": "消しゴム",
+            "pronunciation": "Keshigomu",
+            "category": ["education", "everyday-japanese"]
+        }
+    
+]

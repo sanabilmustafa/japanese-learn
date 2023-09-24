@@ -1,0 +1,771 @@
+{
+  "hiragana": [
+    {
+        "pronunciation": "a",
+        "Japanese": "あ",
+        "example_jp": "あおい",
+        "pronunciation_eg": "aoi",
+        "example_eng": "blue"
+      },
+      {
+        "pronunciation": "i",
+        "Japanese": "い",
+        "example_jp": "いぬ",
+        "pronunciation_eg": "inu",
+        "example_eng": "dog"
+      },
+      {
+        "pronunciation": "u",
+        "Japanese": "う",
+        "example_jp": "うみ",
+        "pronunciation_eg": "umi",
+        "example_eng": "beach"
+      },
+      {
+        "pronunciation": "e",
+        "Japanese": "え",
+        "example_jp": "えんぴつ",
+        "pronunciation_eg": "enpitsu",
+        "example_eng": "pencil"
+      },
+      {
+        "pronunciation": "o",
+        "Japanese": "お",
+        "example_jp": "おかね",
+        "pronunciation_eg": "okane",
+        "example_eng": "money"
+      },
+      {
+        "pronunciation": "ka",
+        "Japanese": "か",
+        "example_jp": "かさ",
+        "pronunciation_eg": "kasa",
+        "example_eng": "umbrella"
+      },
+      {
+        "pronunciation": "ki",
+        "Japanese": "き",
+        "example_jp": "きつね",
+        "pronunciation_eg": "kitsune",
+        "example_eng": "fox"
+      },
+      {
+        "pronunciation": "ku",
+        "Japanese": "く",
+        "example_jp": "くだもの",
+        "pronunciation_eg": "kudamono",
+        "example_eng": "fruit"
+      },
+      {
+        "pronunciation": "ke",
+        "Japanese": "け",
+        "example_jp": "けいたい",
+        "pronunciation_eg": "keitai",
+        "example_eng": "cell phone"
+      },
+      {
+        "pronunciation": "ko",
+        "Japanese": "こ",
+        "example_jp": "こども",
+        "pronunciation_eg": "kodomo",
+        "example_eng": "child"
+      },
+      {
+        "pronunciation": "sa",
+        "Japanese": "さ",
+        "example_jp": "さくらんぼ",
+        "pronunciation_eg": "sakuranbo",
+        "example_eng": "cherry"
+      },
+      
+      {
+        "pronunciation": "shi",
+        "Japanese": "し",
+        "example_jp": "しお",
+        "pronunciation_eg": "shio",
+        "example_eng": "salt"
+      },
+      {
+        "pronunciation": "su",
+        "Japanese": "す",
+        "example_jp": "すし",
+        "pronunciation_eg": "sushi",
+        "example_eng": "sushi"
+      },
+      
+      {
+        "pronunciation": "se",
+        "Japanese": "せ",
+        "example_jp": "せんせい",
+        "pronunciation_eg": "sensei",
+        "example_eng": "teacher"
+      },
+      {
+        "pronunciation": "so",
+        "Japanese": "そ",
+        "example_jp": "そら",
+        "pronunciation_eg": "sora",
+        "example_eng": "sky"
+      },
+      {
+        "pronunciation": "ta",
+        "Japanese": "た",
+        "example_jp": "たけし",
+        "pronunciation_eg": "takeshi",
+        "example_eng": "boy's name"
+      },
+      {
+        "pronunciation": "chi",
+        "Japanese": "ち",
+        "example_jp": "ちょうし",
+        "pronunciation_eg": "choushi",
+        "example_eng": "condition"
+      },
+      {
+        "pronunciation": "tsu",
+        "Japanese": "つ",
+        "example_jp": "つくえ",
+        "pronunciation_eg": "tsukue",
+        "example_eng": "desk"
+      },
+      {
+        "pronunciation": "te",
+        "Japanese": "て",
+        "example_jp": "てがみ",
+        "pronunciation_eg": "tegami",
+        "example_eng": "letter"
+      },
+      {
+        "pronunciation": "to",
+        "Japanese": "と",
+        "example_jp": "とけい",
+        "pronunciation_eg": "tokei",
+        "example_eng": "watch"
+      },
+      
+      
+      {
+        "pronunciation": "na",
+        "Japanese": "な",
+        "example_jp": "なつ",
+        "pronunciation_eg": "natsu",
+        "example_eng": "summer"
+      },
+      {
+        "pronunciation": "ni",
+        "Japanese": "に",
+        "example_jp": "にんぎょう",
+        "pronunciation_eg": "ningyou",
+        "example_eng": "doll"
+      },
+      {
+        "pronunciation": "nu",
+        "Japanese": "ぬ",
+        "example_jp": "ぬま",
+        "pronunciation_eg": "numa",
+        "example_eng": "swamp"
+      },
+      {
+        "pronunciation": "ne",
+        "Japanese": "ね",
+        "example_jp": "ねこ",
+        "pronunciation_eg": "neko",
+        "example_eng": "cat"
+      },
+      {
+        "pronunciation": "no",
+        "Japanese": "の",
+        "example_jp": "のみもの",
+        "pronunciation_eg": "nomimono",
+        "example_eng": "drink"
+      },
+      {
+        "pronunciation": "ha",
+        "Japanese": "は",
+        "example_jp": "はな",
+        "pronunciation_eg": "hana",
+        "example_eng": "flower"
+      },
+      {
+        "pronunciation": "hi",
+        "Japanese": "ひ",
+        "example_jp": "ひと",
+        "pronunciation_eg": "hito",
+        "example_eng": "person"
+      },
+      {
+        "pronunciation": "fu",
+        "Japanese": "ふ",
+        "example_jp": "ふうせん",
+        "pronunciation_eg": "fuusen",
+        "example_eng": "balloon"
+      },
+      {
+        "pronunciation": "he",
+        "Japanese": "へ",
+        "example_jp": "へや",
+        "pronunciation_eg": "heya",
+        "example_eng": "room"
+      },
+      
+      {
+        "pronunciation": "ho",
+        "Japanese": "ほ",
+        "example_jp": "ほん",
+        "pronunciation_eg": "hon",
+        "example_eng": "book"
+      },
+      {
+        "pronunciation": "ma",
+        "Japanese": "ま",
+        "example_jp": "まんが",
+        "pronunciation_eg": "manga",
+        "example_eng": "comic"
+      },
+      
+      {
+        "pronunciation": "mi",
+        "Japanese": "み",
+        "example_jp": "みかん",
+        "pronunciation_eg": "mikan",
+        "example_eng": "mandarin orange"
+      },
+      {
+        "pronunciation": "mu",
+        "Japanese": "む",
+        "example_jp": "むし",
+        "pronunciation_eg": "mushi",
+        "example_eng": "insect"
+      },
+      {
+        "pronunciation": "me",
+        "Japanese": "め",
+        "example_jp": "めがね",
+        "pronunciation_eg": "megane",
+        "example_eng": "glasses"
+      },
+      {
+        "pronunciation": "mo",
+        "Japanese": "も",
+        "example_jp": "もも",
+        "pronunciation_eg": "momo",
+        "example_eng": "peach"
+      },
+      {
+        "pronunciation": "ya",
+        "Japanese": "や",
+        "example_jp": "やま",
+        "pronunciation_eg": "yama",
+        "example_eng": "mountain"
+      },
+      {
+        "pronunciation": "yu",
+        "Japanese": "ゆ",
+        "example_jp": "ゆき",
+        "pronunciation_eg": "yuki",
+        "example_eng": "snow"
+      },
+      {
+        "pronunciation": "yo",
+        "Japanese": "よ",
+        "example_jp": "よる",
+        "pronunciation_eg": "yoru",
+        "example_eng": "night"
+      },
+      
+      {
+        "pronunciation": "ra",
+        "Japanese": "ら",
+        "example_jp": "らんぷ",
+        "pronunciation_eg": "ranpu",
+        "example_eng": "lamp"
+      },
+      {
+        "pronunciation": "ri",
+        "Japanese": "り",
+        "example_jp": "りんご",
+        "pronunciation_eg": "ringo",
+        "example_eng": "apple"
+      },
+      {
+        "pronunciation": "ru",
+        "Japanese": "る",
+        "example_jp": "るす",
+        "pronunciation_eg": "rusu",
+        "example_eng": "absence"
+      },
+      {
+        "pronunciation": "re",
+        "Japanese": "れ",
+        "example_jp": "れきし",
+        "pronunciation_eg": "rekishi",
+        "example_eng": "history"
+      },
+      {
+        "pronunciation": "ro",
+        "Japanese": "ろ",
+        "example_jp": "ろうそく",
+        "pronunciation_eg": "rousoku",
+        "example_eng": "candle"
+      },
+      {
+        "pronunciation": "wa",
+        "Japanese": "わ",
+        "example_jp": "わたし",
+        "pronunciation_eg": "watashi",
+        "example_eng": "I, me"
+      }, 
+      {
+        "pronunciation": "wi",
+        "Japanese": "ゐ",
+        "example_jp": "ゐない",
+        "pronunciation_eg": "wīnai",
+        "example_eng": "not exist"
+      },
+      {
+        "pronunciation": "we",
+        "Japanese": "ゑ",
+        "example_jp": "ゑん",
+        "pronunciation_eg": "wēn",
+        "example_eng": "circle"
+      },
+      {
+        "pronunciation": "wo",
+        "Japanese": "を",
+        "example_jp": "をたす",
+        "pronunciation_eg": "wotasu",
+        "example_eng": "add (particle)"
+      },
+      {
+        "pronunciation": "n",
+        "Japanese": "ん",
+        "example_jp": "えんぴつ",
+        "pronunciation_eg": "enpitsu",
+        "example_eng": "pencil"
+      }
+],
+  "dakuten_hiragana": [
+    {
+      "pronunciation": "ga",
+      "Japanese": "が",
+      "example_jp": "がっこう",
+      "pronunciation_eg": "gakkou",
+      "example_eng": "school"
+    },
+    {
+      "pronunciation": "gi",
+      "Japanese": "ぎ",
+      "example_jp": "ぎんこう",
+      "pronunciation_eg": "ginkou",
+      "example_eng": "bank"
+    },
+    {
+      "pronunciation": "gu",
+      "Japanese": "ぐ",
+      "example_jp": "ぐんたい",
+      "pronunciation_eg": "guntai",
+      "example_eng": "military"
+    },
+    {
+      "pronunciation": "ge",
+      "Japanese": "げ",
+      "example_jp": "げんき",
+      "pronunciation_eg": "genki",
+      "example_eng": "healthy"
+    },
+    {
+      "pronunciation": "go",
+      "Japanese": "ご",
+      "example_jp": "ごはん",
+      "pronunciation_eg": "gohan",
+      "example_eng": "rice"
+    },
+    {
+      "pronunciation": "za",
+      "Japanese": "ざ",
+      "example_jp": "ざっし",
+      "pronunciation_eg": "zasshi",
+      "example_eng": "magazine"
+    },
+    {
+      "pronunciation": "ji",
+      "Japanese": "じ",
+      "example_jp": "じしょ",
+      "pronunciation_eg": "jisho",
+      "example_eng": "dictionary"
+    },
+    {
+      "pronunciation": "zu",
+      "Japanese": "ず",
+      "example_jp": "ずっと",
+      "pronunciation_eg": "zutto",
+      "example_eng": "forever"
+    },
+    {
+      "pronunciation": "ze",
+      "Japanese": "ぜ",
+      "example_jp": "ぜんぶ",
+      "pronunciation_eg": "zenbu",
+      "example_eng": "everything"
+    },
+    {
+      "pronunciation": "zo",
+      "Japanese": "ぞ",
+      "example_jp": "ぞう",
+      "pronunciation_eg": "zou",
+      "example_eng": "elephant"
+    },
+    {
+      "pronunciation": "da",
+      "Japanese": "だ",
+      "example_jp": "だめ",
+      "pronunciation_eg": "dame",
+      "example_eng": "no good"
+    },
+    {
+      "pronunciation": "ji",
+      "Japanese": "ぢ",
+      "example_jp": "ぢがん",
+      "pronunciation_eg": "jigan",
+      "example_eng": "self-defense"
+    },
+    {
+      "pronunciation": "zu",
+      "Japanese": "づ",
+      "example_jp": "づける",
+      "pronunciation_eg": "dukeru",
+      "example_eng": "to attach"
+    },
+    {
+      "pronunciation": "de",
+      "Japanese": "で",
+      "example_jp": "でんわ",
+      "pronunciation_eg": "denwa",
+      "example_eng": "telephone"
+    },
+    {
+      "pronunciation": "do",
+      "Japanese": "ど",
+      "example_jp": "どこ",
+      "pronunciation_eg": "doko",
+      "example_eng": "where"
+    },
+    {
+      "pronunciation": "ba",
+      "Japanese": "ば",
+      "example_jp": "ばしょ",
+      "pronunciation_eg": "basho",
+      "example_eng": "place"
+    },
+    {
+      "pronunciation": "bi",
+      "Japanese": "び",
+      "example_jp": "びじゅつかん",
+      "pronunciation_eg": "bijutsukan",
+      "example_eng": "art museum"
+    },
+    {
+      "pronunciation": "bu",
+      "Japanese": "ぶ",
+      "example_jp": "ぶたにく",
+      "pronunciation_eg": "butaniku",
+      "example_eng": "pork"
+    },
+    {
+      "pronunciation": "be",
+      "Japanese": "べ",
+      "example_jp": "べんとう",
+      "pronunciation_eg": "bentou",
+      "example_eng": "boxed lunch"
+    },
+    {
+      "pronunciation": "bo",
+      "Japanese": "ぼ",
+      "example_jp": "ぼんさい",
+      "pronunciation_eg": "bonsai",
+      "example_eng": "bonsai"
+    },
+    {
+      "pronunciation": "pa",
+      "Japanese": "ぱ",
+      "example_jp": "ぱん",
+      "pronunciation_eg": "pan",
+      "example_eng": "bread"
+    },
+    {
+      "pronunciation": "pi",
+      "Japanese": "ぴ",
+      "example_jp": "ぴあの",
+      "pronunciation_eg": "piano",
+      "example_eng": "piano"
+    },
+    {
+      "pronunciation": "pu",
+      "Japanese": "ぷ",
+      "example_jp": "ぷれぜんと",
+      "pronunciation_eg": "purezento",
+      "example_eng": "present"
+    },
+    {
+      "pronunciation": "pe",
+      "Japanese": "ぺ",
+      "example_jp": "ぺージ",
+      "pronunciation_eg": "peeji",
+      "example_eng": "page"
+    },
+    {
+      "pronunciation": "po",
+      "Japanese": "ぽ",
+      "example_jp": "ぽけもん",
+      "pronunciation_eg": "pokemon",
+      "example_eng": "pokemon"
+    }
+  ],
+  "yoon_hiragana": [
+    {
+      "pronunciation": "kya",
+      "Japanese": "きゃ",
+      "example_jp": "きゃく",
+      "pronunciation_eg": "kyaku",
+      "example_eng": "guest"
+    },
+    {
+      "pronunciation": "kyu",
+      "Japanese": "きゅ",
+      "example_jp": "きゅうり",
+      "pronunciation_eg": "kyuuri",
+      "example_eng": "cucumber"
+    },
+    {
+      "pronunciation": "kyo",
+      "Japanese": "きょ",
+      "example_jp": "きょうかしょ",
+      "pronunciation_eg": "kyoukasho",
+      "example_eng": "textbook"
+    },
+    {
+      "pronunciation": "sha",
+      "Japanese": "しゃ",
+      "example_jp": "しゃしん",
+      "pronunciation_eg": "shashin",
+      "example_eng": "photograph"
+    },
+    {
+      "pronunciation": "shu",
+      "Japanese": "しゅ",
+      "example_jp": "しゅくだい",
+      "pronunciation_eg": "shukudai",
+      "example_eng": "homework"
+    },
+    {
+      "pronunciation": "sho",
+      "Japanese": "しょ",
+      "example_jp": "しょくどう",
+      "pronunciation_eg": "shokudou",
+      "example_eng": "dining room"
+    },
+    {
+      "pronunciation": "cha",
+      "Japanese": "ちゃ",
+      "example_jp": "ちゃいろ",
+      "pronunciation_eg": "chairo",
+      "example_eng": "brown"
+    },
+    {
+      "pronunciation": "chu",
+      "Japanese": "ちゅ",
+      "example_jp": "ちゅうしゃ",
+      "pronunciation_eg": "chuusha",
+      "example_eng": "injection"
+    },
+    {
+      "pronunciation": "cho",
+      "Japanese": "ちょ",
+      "example_jp": "ちょっと",
+      "pronunciation_eg": "chotto",
+      "example_eng": "a little"
+    },
+    {
+      "pronunciation": "nya",
+      "Japanese": "にゃ",
+      "example_jp": "にゃんこ",
+      "pronunciation_eg": "nyanko",
+      "example_eng": "kitty"
+    },
+    {
+      "pronunciation": "nyu",
+      "Japanese": "にゅ",
+      "example_jp": "にゅうえき",
+      "pronunciation_eg": "nyuueki",
+      "example_eng": "entrance"
+    },
+    {
+      "pronunciation": "nyo",
+      "Japanese": "にょ",
+      "example_jp": "にょうぼう",
+      "pronunciation_eg": "nyoubou",
+      "example_eng": "nun"
+    },
+    {
+      "pronunciation": "hya",
+      "Japanese": "ひゃ",
+      "example_jp": "ひゃく",
+      "pronunciation_eg": "hyaku",
+      "example_eng": "hundred"
+    },
+    {
+      "pronunciation": "hyu",
+      "Japanese": "ひゅ",
+      "example_jp": "ひゅうが",
+      "pronunciation_eg": "hyuuga",
+      "example_eng": "sunlight"
+    },
+    {
+      "pronunciation": "hyo",
+      "Japanese": "ひょ",
+      "example_jp": "ひょう",
+      "pronunciation_eg": "hyou",
+      "example_eng": "leopard"
+    },
+    {
+      "pronunciation": "mya",
+      "Japanese": "みゃ",
+      "example_jp": "みゃく",
+      "pronunciation_eg": "myaku",
+      "example_eng": "pulse"
+    },
+    {
+      "pronunciation": "myu",
+      "Japanese": "みゅ",
+      "example_jp": "みゅうじき",
+      "pronunciation_eg": "myuujiki",
+      "example_eng": "mystery"
+    },
+    {
+      "pronunciation": "myo",
+      "Japanese": "みょ",
+      "example_jp": "みょうじ",
+      "pronunciation_eg": "myouji",
+      "example_eng": "surname"
+    },
+    {
+      "pronunciation": "rya",
+      "Japanese": "りゃ",
+      "example_jp": "りゃくすい",
+      "pronunciation_eg": "ryakusui",
+      "example_eng": "dew"
+    },
+    {
+      "pronunciation": "ryu",
+      "Japanese": "りゅ",
+      "example_jp": "りゅう",
+      "pronunciation_eg": "ryuu",
+      "example_eng": "dragon"
+    },
+    {
+      "pronunciation": "ryo",
+      "Japanese": "りょ",
+      "example_jp": "りょこう",
+      "pronunciation_eg": "ryokou",
+      "example_eng": "travel"
+    },
+    {
+      "pronunciation": "gya",
+      "Japanese": "ぎゃ",
+      "example_jp": "ぎゃくしゅう",
+      "pronunciation_eg": "gyakushuu",
+      "example_eng": "counterattack"
+    },
+    {
+      "pronunciation": "gyu",
+      "Japanese": "ぎゅ",
+      "example_jp": "ぎゅうにく",
+      "pronunciation_eg": "gyuuniku",
+      "example_eng": "beef"
+    },
+    {
+      "pronunciation": "gyo",
+      "Japanese": "ぎょ",
+      "example_jp": "ぎょうざ",
+      "pronunciation_eg": "gyouza",
+      "example_eng": "dumpling"
+    }
+  ],
+  "quizData":{
+    "exercise1":[
+      {
+        "index": "1",
+        "question": "Car",
+        "options_jp": ["くるま", "にんぎょう", "ほん", "てがみ"],
+        "options_pronunciation": ["ningyou", "hon","kuruma", "tegami"],
+        "correct": "くるま"
+      },
+      {
+        "index": "2",
+        "question": "Apple",
+        "options_jp": ["りんご", "くつ", "すし", "いぬ"],
+        "options_pronunciation": ["ringo", "kutsu", "sushi", "inu"],
+        "correct": "りんご"
+      },
+      {
+        "index": "3",
+        "question": "House",
+        "options_jp": ["いえ", "かさ", "くるま", "にわ"],
+        "options_pronunciation": [ "kasa", "kuruma", "niwa","ie"],
+        "correct": "いえ"
+      },
+      {
+        "index": "4",
+        "question": "Cat",
+        "options_jp": ["ねこ", "てがみ", "すみれ", "くるま"],
+        "options_pronunciation": [ "tegami","neko", "sumire", "kuruma"],
+        "correct": "ねこ"
+      },
+      {
+        "index": "5",
+        "question": "Book",
+        "options_jp": ["ほん", "さくらんぼ", "ねこ", "てがみ"],
+        "options_pronunciation": ["hon", "sakuranbo", "neko", "tegami"],
+        "correct": "ほん"
+      },
+      {
+        "index": "6",
+        "question": "Dog",
+        "options_jp": ["いぬ", "かさ", "くるま", "すし"],
+        "options_pronunciation": [ "kasa", "kuruma","inu", "sushi"],
+        "correct": "いぬ"
+      },
+      {
+        "index": "7",
+        "question": "Hello",
+        "options_jp": ["こんにちは", "こんばんは", "さようなら", "ありがとう"],
+        "options_pronunciation": [ "konbanwa", "sayounara", "arigatou", "konnichiwa"],
+        "correct": "こんにちは"
+      },
+      {
+        "index": "8",
+        "question": "Friend",
+        "options_jp": ["ともだち", "かぞく", "すみれ", "くるま"],
+        "options_pronunciation": [ "kazoku", "sumire", "kuruma", "tomodachi"],
+        "correct": "ともだち"
+      },
+      {
+        "index": "9",
+        "question": "Water",
+        "options_jp": ["みず", "くつ", "さくらんぼ", "いぬ"],
+        "options_pronunciation": ["kutsu", "mizu", "sakuranbo", "inu"],
+        "correct": "みず"
+      },
+      {
+        "index": "10",
+        "question": "Thank you",
+        "options_jp": ["ありがとう", "すし", "いぬ", "ねこ"],
+        "options_pronunciation": ["sushi", "inu", "arigatou", "neko"],
+        "correct": "ありがとう"
+      }
+    ]
+  }
+}
+
+
+
